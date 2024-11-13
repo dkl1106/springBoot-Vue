@@ -808,10 +808,11 @@
 1. 基于ssm的电影评论系统+vue
 1. 基于SSM框架的民宿预订管理系统设计与实现+vue
 1. 基于java的珠宝购物网站系统的建设+jsp
-
+<style>
 img{
     height：100px，
     width：100px
 }
+</style>
 
 
