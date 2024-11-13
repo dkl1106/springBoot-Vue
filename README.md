@@ -4,7 +4,7 @@
 
 #### 扫码领取源码
 
-![微信：Witt202301](weixin.png) style={{height = 100 ,width = 100}}
+![微信：Witt202301](weixin.png) style=" height: 100px; width: 100px;"
 
 1. 高校专业信息管理系统设计与实现
 1. 学院党员管理系统
@@ -808,11 +808,6 @@
 1. 基于ssm的电影评论系统+vue
 1. 基于SSM框架的民宿预订管理系统设计与实现+vue
 1. 基于java的珠宝购物网站系统的建设+jsp
-<style>
-img{
-    height：100px，
-    width：100px
-}
-</style>
+
 
 
