@@ -4,7 +4,8 @@
 
 #### 扫码领取源码
 
-![微信：Witt202301](weixin.png) {{{height: 100px; width: 100px;}}}
+
+<img alt="微信：Witt202301" src="/di-kailong/spring-boot-vue/raw/master/weixin.png" style="width:100px;height:100px">
 
 1. 高校专业信息管理系统设计与实现
 1. 学院党员管理系统
